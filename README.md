@@ -7,6 +7,7 @@
 - [项目特点](README.md#项目特点)
 - [部署](README.md#部署)
 - [鸣谢下列作者的文章和项目](README.md#鸣谢下列作者的文章和项目)
+- [鸣谢项目赞助商](README.md#鸣谢项目赞助商)
 - [免责声明](README.md#免责声明)
 
 * * *
@@ -39,7 +40,11 @@
 ![image](https://user-images.githubusercontent.com/92626977/211201217-6a5c9493-4aa9-4c68-9cba-966893617ab0.png)
 
 ## 鸣谢下列作者的文章和项目:
-ifeng 的 v2ray 项目，在此基础上作修改 https://www.hicairo.com https://github.com/hiifeng
+* ifeng 的 v2ray 项目，在此基础上作修改 https://www.hicairo.com https://github.com/hiifeng
+
+## 鸣谢项目赞助商
+* 感谢[YXVM](https://yxvm.com/aff.php?aff=764)提供赞助
+* [NodeSupport](https://github.com/NodeSeekDev/NodeSupport)
 
 ## 免责声明:
 * 本程序仅供学习了解, 非盈利目的，请于下载后 24 小时内删除, 不得用作任何商业用途, 文字、数据及图片均有所属版权, 如转载须注明来源。
